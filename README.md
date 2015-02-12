@@ -1,4 +1,4 @@
-## Random-Walk
+## Random Walk
 
 This program simulates a random walk in a width * height field.
 
